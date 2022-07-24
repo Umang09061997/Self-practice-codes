@@ -34,7 +34,7 @@ contract Intializations {
 }
 
 
-//Contract for USDSC Creation
+//Contract for Animanga Creation
 
 contract AniManga is CoinGeneral, Intializations {
 
